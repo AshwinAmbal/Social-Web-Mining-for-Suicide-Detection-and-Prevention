@@ -7,9 +7,10 @@ This project has been done for 2 months by Ashwin Karthik Ambalavanan a CSE Stud
 Description about project:
 The project is a big one of which only a portion is completed. 
 The main objective of this project has three research questions:
-	1. What are the most common methods used to end life? 
-	2. What are the apparent factors that affect mental health of users? 
-	3. Are there frequent trajectories of the suicidal activity ?
+1. What are the most common methods used to end life? 
+2. What are the apparent factors that affect mental health of users? 
+3. Are there frequent trajectories of the suicidal activity ?
+
 Out of these research questions, the first one, the common methods have been extracted from Suicidal comments on Reddit as of 06/07/2017. 
 For more details, read the paper attached in the same folder. 
 
