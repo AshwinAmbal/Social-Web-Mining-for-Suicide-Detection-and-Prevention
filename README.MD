@@ -2,7 +2,7 @@ Project: Don't Do It... Social Web Mining For Finding Suicidal Patterns of Reddi
 Place: LIRMM
 Last Date Updated: 06/07/2017
 Description about authors:
-This project has been done for 2 months by Ashwin Karthik Ambalavanan a CSE Student of College of Engineering, Guindy, Anna University as part of an internship in LIRMM, University of Montpellier 2, under the able guidance of Mr Jerome Aze, Mrs Sandra Bringay and Mr Bilel Moulahi
+This project has been done for 2 months by Ashwin Karthik Ambalavanan a CSE Student of College of Engineering, Guindy, Anna University as part of an internship in LIRMM, University of Montpellier 2, under the able guidance of Dr Jerome Aze, Dr Sandra Bringay and Dr Bilel Moulahi
 
 Description about project:
 The project is a big one of which only a portion is completed. 
